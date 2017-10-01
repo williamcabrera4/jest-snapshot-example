@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Movie Component should render the movie information 1`] = `
+<div>
+  <h1>
+    My Movie
+  </h1>
+  <ul>
+    <li>
+      <b>
+        Title:
+      </b>
+       
+      Game of Thrones
+    </li>
+    <li>
+      <b>
+        Description:
+      </b>
+       
+      Nine noble families fight for control over the mythical lands of Westeros, while a forgotten race returns after being dormant for thousands of years.
+    </li>
+    <li>
+      <b>
+        Language:
+      </b>
+       
+      English
+    </li>
+    <li>
+      <b>
+        Writers:
+      </b>
+      David Benioff, D.B. Weiss
+    </li>
+    <li>
+      <b>
+        Actors:
+      </b>
+      Peter Dinklage, Lena Headey, Emilia Clarke, Kit Harington
+    </li>
+    <li>
+      <b>
+        Genres:
+      </b>
+      Adventure, Drama, Fantasy
+    </li>
+  </ul>
+</div>
+`;

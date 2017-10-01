@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Movie Normalizer should return a normalized object from the JSON API schema 1`] = `
+Object {
+  "actors": Array [
+    "Peter Dinklage",
+    " Lena Headey",
+    " Emilia Clarke",
+    " Kit Harington",
+  ],
+  "description": "Nine noble families fight for control over the mythical lands of Westeros, while a forgotten race returns after being dormant for thousands of years.",
+  "genres": Array [
+    "Adventure",
+    " Drama",
+    " Fantasy",
+  ],
+  "language": "English",
+  "title": "Game of Thrones",
+  "writers": Array [
+    "David Benioff",
+    " D.B. Weiss",
+  ],
+}
+`;
